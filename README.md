@@ -22,14 +22,16 @@ Software hecho en Java que simula ser un juego de estrategia y fantasia basado e
         ├── module-info.java
         ├── textos/
         │   ├── Monstruos.txt
-        │   └── Registros.txt
+        │   ├── Registros.txt
+        │   ├── Monstruos (Variante Original).txt
+        │   └── Registros (Variante Original).txt
         └── taller03/
             ├── HombreLobo.java
             ├── Jugador.java
             ├── Main.java **
             ├── Minijuego.java
             ├── Momia.java
-            ├── Monstruo.java **
+            ├── Monstruo.java
             ├── Vampiro.java
             └── Zombi.java
 ```
