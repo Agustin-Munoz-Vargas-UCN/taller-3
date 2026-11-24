@@ -16,8 +16,6 @@ Software hecho en Java que simula ser un juego de estrategia y fantasia basado e
 ├── README.md
 ├── Agustin-Munoz-Vargas-UCN_POO_Taller03_Eclipse.zip
 └── taller03/
-    ├──.classpath
-    ├──.proyect
     └── src/
         ├── module-info.java
         ├── textos/
