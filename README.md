@@ -18,7 +18,7 @@ Software hecho en Java que simula ser un juego de estrategia y fantasia basado e
 └── taller03/
     └── src/
         ├── module-info.java
-        ├── textos/
+        ├── textos/            //Los "Variante Original" son las primeras variantes de los archivos antes de ser modificadas por el programa.
         │   ├── Monstruos.txt
         │   ├── Registros.txt
         │   ├── Monstruos (Variante Original).txt
